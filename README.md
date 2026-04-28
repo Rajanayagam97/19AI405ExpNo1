@@ -85,8 +85,8 @@ print("Environment State:", environment)
 
 ```
 OUTPUT:
+<img width="602" height="422" alt="image" src="https://github.com/user-attachments/assets/cab781b5-6a5e-42e7-8545-3195d6cc9339" />
 
-<img width="552" height="251" alt="image" src="https://github.com/user-attachments/assets/f2c4a8ce-f915-4e30-845d-3cf9f211c54b" />
 
 RESULT:
 
